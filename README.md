@@ -30,7 +30,7 @@ I'm Justin, Full-Stack Software Engineer based in Los Angeles.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=justinshub&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=ayu-mirage" />
 
 
-### GitHub Highlights: :blossom:
+### GitHub Highlights: 👍
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinshub&langs_count=8&layout=compact&theme=ayu-mirage&hide=html,Tcl" />
 </a>
