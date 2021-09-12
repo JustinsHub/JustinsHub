@@ -12,7 +12,7 @@ I'm Justin, Full-Stack Software Engineer based in Los Angeles.
 <a href="https://www.linkedin.com/in/justincodes/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
-### Current Status Quo:
+### Current Status:
 
 - 💼 I am looking for the right company to grow with.
 - 🔭 I’m currently working on <strong>full stack landing pages</strong> and <strong>planning another big project</strong>.
