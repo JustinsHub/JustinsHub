@@ -15,7 +15,7 @@ I'm Justin, Full-Stack Software Engineer based in Los Angeles.
 ### Current Status:
 
 - 💼 I am looking for the right company to grow with.
-- 🔭 I’m currently working on <strong>full stack landing pages</strong> and <strong>planning another big project</strong>.
+- 🔭 I’m currently working on <strong>full stack landing pages</strong> and <strong>planning big projects in the mean time</strong>.
 - 🤔 My research current interests right now are in <strong>Front-End Development</strong>, but I am always open to expand.
 - 🔍 I’m open for career opportunities in the <strong>ANY</strong> industry.
 
